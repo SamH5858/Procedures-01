@@ -1,4 +1,4 @@
-name = input("What's your name?")
-def printname(name):
+def printname():
+	name = input("What's your name?")
 	print(name)
-printname(name)
+printname()
